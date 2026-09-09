@@ -1,4 +1,5 @@
 #apt-and-flatpak-updater
+
 A simple Bash script to automate 'apt' and 'flatpak' updates and upgrades on compatible Linux systems.
 
 #HowToUseIt
